@@ -1,0 +1,13 @@
+#container{
+    height: 97vh;
+    width: 98vw;
+    border: 2px solid black;
+}
+
+#ball{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: lightgreen;
+}
